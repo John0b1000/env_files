@@ -1,0 +1,40 @@
+sources:
+
+# installing emacs from homebrew
+#
+https://www.gnu.org/software/emacs/download.html
+
+# creating aliases
+#
+https://www.tecmint.com/create-alias-in-linux/
+
+# customizing terminal and environment
+#
+https://www.geeksforgeeks.org/cool-custom-welcome-messages-linux-terminal/?ref=lbp
+https://www.makeuseof.com/customize-zsh-prompt-macos-terminal/
+https://stackoverflow.com/questions/6697753/difference-between-single-and-double-quotes-in-bash
+
+# variables in bash
+#
+https://www.howtogeek.com/442332/how-to-work-with-variables-in-bash/
+
+# emacs customization
+#
+https://www.gnu.org/software/emacs/manual/html_node/emacs/Init-File.html
+
+# anaconda (base) activation
+#
+https://askubuntu.com/questions/1026383/why-does-base-appear-in-front-of-my-terminal-prompt
+
+# running python scripts
+#
+https://www.educative.io/edpresso/how-to-run-a-python-script-in-linux
+
+# pycharm and anaconda
+#
+https://docs.anaconda.com/anaconda/user-guide/tasks/pycharm/
+https://inblog.in/Pycharm-Environment-Setup-With-Anaconda-Svj7TrPmzU
+
+# installing homebrew on M1 chip
+#
+https://apple.stackexchange.com/questions/148901/why-does-my-brew-installation-not-work
